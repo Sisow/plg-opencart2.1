@@ -4,6 +4,9 @@
 
 # Buckaroo OpenCart 2.1 Payments Plugin (former Sisow)
 
+> :warning: **PLEASE NOTE**: This OpenCart Payments Plugin (former Sisow) is DEPRECATED and will no longer be maintained.<br>
+Please look for more recent OpenCart plugin versions on our Github repository.
+
 ### Index
 - [About](#about)
 - [Contribute](#contribute)
